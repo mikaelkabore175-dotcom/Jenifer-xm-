@@ -7,7 +7,7 @@
 # Forcer les scripts Windows batch à CRLF
 *.bat text eol=crlf
 
-# Les fichiers binaires ne seront pas modifiés par Git (images, vidéos)
+# Les fichiers binaires ne seront pas modifiés par Git (images , vidéos)
 *.png binary
 *.jpg binary
 *.jpeg binary
