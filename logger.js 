@@ -1,0 +1,24 @@
+const chalk = require('chalk');
+
+function logInfo(message) {
+  console.log(chalk.blue('[INFO]'), new Date().toLocaleString(), '-', message);
+}
+
+function logWarn(message) {
+  console.log(chalk.yellow('[WARN]'), new Date().toLocaleString(), '-', message);
+}
+
+function logError(message) {
+  console.error(chalk.red('[ERROR]'), new Date().toLocaleString(), '-', message);
+}
+
+module.exports = {
+  logInfo,
+  logWarn,
+  logError,
+};
+const logger = require('./loger');
+
+logger.logInfo('Bot démarré');
+logger.logWarn('Attention : tentative de spam détectée');
+logger.logError('Erreur lors de l’envoi du message');
