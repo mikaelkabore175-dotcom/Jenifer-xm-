@@ -1,93 +1,87 @@
-<p align="center">
-  <img src="https://github.com/mikaelkabore175-dotcom/Jenifer-xm-/logo.png" alt="Jenifer XM Bot" width="150"/>
+h1 align="center">
+
+```ansi
+[35m      ██╗███████╗███╗   ██╗██╗███████╗██████╗     ██╗  ██╗███╗   ███╗[0m
+[35m      ██║██╔════╝████╗  ██║██║██╔════╝██╔══██╗    ██║  ██║████╗ ████║[0m
+[35m      ██║█████╗  ██╔██╗ ██║██║█████╗  ██████╔╝    ███████║██╔████╔██║[0m
+[35m ██   ██║██╔══╝  ██║╚██╗██║██║██╔══╝  ██╔══██╗    ██╔══██║██║╚██╔╝██║[0m
+[35m ╚█████╔╝███████╗██║ ╚████║██║███████╗██║  ██║    ██║  ██║██║ ╚═╝ ██║[0m
+[35m  ╚════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝     ╚═╝[0m
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🤖+Jenifer+xm+Bot;Le+futur+des+bots+WhatsApp;By+Mikaël+Kabore" alt="Typing SVG" />
+</h1><p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 </p>
+---
 
-<h1 align="center">🤖 Jenifer XM WhatsApp Bot</h1>
+🚀 Jenifer xm - WhatsApp Bot
+
+✨ Jenifer xm est un bot WhatsApp moderne, puissant et simple à utiliser.
+Il permet d’automatiser des tâches, d’envoyer/répondre à des messages, et d’utiliser plein de commandes funs et utiles.
+
+⚡ Fonctionnalités principales :
+
+📩 Réponses automatiques
+
+🎵 Téléchargement médias (YouTube, TikTok, etc.)
+
+🖼️ Génération d’images et stickers
+
+🔒 Sécurité intégrée
+
+🤖 Commandes fun (mèmes, jeux, etc.)
+
+
+
+---
+
+🛠️ Installation
+
+git clone https://github.com/mikaelkabore175-dotcom/Jenifer-xm-.git
+cd Jenifer-xm-
+npm install
+npm start
+
+
+---
+
+📸 Aperçu
+
 <p align="center">
-  <em>Le bot WhatsApp ultime avec Baileys - Jeux, Automatisations & Fun</em>
+  <img src="https://media.giphy.com/media/UYpAoiz2UksVW/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250" />
 </p>
+---
+
+🤝 Contribuer
+
+1. Fork le projet
+
+
+2. Crée une branche (git checkout -b feature/nouvelle-feature)
+
+
+3. Commit (git commit -m 'Ajout de ma feature')
+
+
+4. Push (git push origin feature/nouvelle-feature)
+
+
+5. Ouvre une Pull Request 🎉
+
+
+
+
+---
+
+💖 Auteur
+
+Mikaël Kabore
+🔗 GitHub
+
 
 <p align="center">
-  <a href="https://github.com/mikaelkabore175-dotcom/Jenifer-xm-/releases">
-    <img src="https://img.shields.io/github/v/release/https://github.com/mikaelkabore175-dotcom/jenifer-xm?style=for-the-badge" alt="Release"/>
-  </a>
-  <a href="https://github.com/mikaelkabore175-dotcom/Jenifer-xm-/issues">
-    <img src="https://img.shields.io/github/issues/your-repo/jenifer-xm?style=for-the-badge" alt="Issues"/>
-  </a>
-  <a href="https://whatsapp.com/channel/0029VbB3lzT3GJP3AsgHA71W/100">
-    <img src="https://img.shields.io/badge/WhatsApp_Channel-JeniferXM-25d366?style=for-the-badge&logo=whatsapp" alt="WhatsApp Channel"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Merci+de+supporter+Jenifer+xm+!;Donne+une+⭐+au+repo+si+tu+aimes+;Stay+connected+🚀" alt="Typing SVG" />
 </p>
-
+```
 ---
-
-## ⚡ Présentation
-
-**Jenifer XM** est un bot WhatsApp développé en Node.js utilisant la librairie [Baileys](https://github.com/WhiskeySockets/Baileys).  
-Il est conçu pour automatiser, animer, et gérer tes groupes et conversations WhatsApp avec des fonctionnalités riches et personnalisables.
-
----
-
-## 🎮 Fonctionnalités
-
-| Commande        | Description                                                           |
-|-----------------|------------------------------------------------------------------------|
-| `!getpp`        | Télécharge la photo de profil d’un utilisateur                         |
-| `!sticker`      | Convertit une image ou vidéo en sticker                               |
-| `!info`         | Affiche les infos du bot avec une vidéo                               |
-| `!motivation`   | Envoie une note vidéo motivante                                       |
-| `!tiktok <url>` | Télécharge un TikTok sans watermark avec infos                        |
-| `!loc`          | Envoie la localisation approximative en répondant à un message        |
-| `!tagall`       | Mentionne tous les membres du groupe (admins uniquement)              |
-| `!pair`         | Génère un code one-time pour connecter le compte au bot              |
-| `!game`         | Lance un mini-jeu interactif en groupe                               |
-| `!suicide`      | Envoie un message en boucle avec réactions (groupes uniquement)       |
-| `!autoreacton`  | Active les réactions automatiques sur les messages                    |
-| `!autovustatut` | Auto-visionne et like les statuts publiés                            |
-| `!antimentionon`| Active la suppression des messages contenant des mentions            |
-| `!antistatuton` | Active la suppression automatique des statuts                        |
-| `!happy`        | Envoie un GIF animé happy version anime japonais                      |
-| `!kick`         | Exclut un membre du groupe en répondant à son message                |
-| `!video`        | Télécharge une vidéo depuis Google Drive et l’envoie                  |
-
----
-
-## 🛠️ Installation et utilisation
-
-1. Clone ce dépôt :
-   https://github.com/mikaelkabore175-dotcom/Jenifer-xm-https://github.com/mikaelkabore175-dotcom/Jenifer-xm-
-
-3. Installe les dépendances :  
-
-
-4. Lance le bot :  
-
-
-5. Scanne le QR code affiché dans la console avec WhatsApp  
-(dans *Paramètres > Appareils connectés > Scanner le code*).
-
----
-
-## ⚙️ Configuration
-
-- L’authentification est sauvegardée automatiquement dans le dossier `/auth`.
-- Les commandes sont modulaires, tu peux facilement en ajouter ou modifier dans `/commands`.
-- Certaines commandes requièrent des permissions administratives en groupe.
-
----
-
-## 🚀 Contribution
-
-Les contributions sont les bienvenues !  
-Fork ce dépôt, crée une branche, fais tes modifications et ouvre une Pull Request.
-
----
-
-## 📞 Contact & Support
-
-Rejoins la chaîne WhatsApp officielle :  
-[https://whatsapp.com/channel/0029VbB3lzT3GJP3AsgHA71W/100](https://whatsapp.com/channel/0029VbB3lzT3GJP3AsgHA71W/100)
-
----
-
-<p align="center">Made with ❤️ by Jenifer XM</p>
