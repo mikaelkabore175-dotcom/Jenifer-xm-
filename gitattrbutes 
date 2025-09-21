@@ -1,3 +1,4 @@
+//.gitattributes
 # Normaliser fin de ligne pour tous les fichiers textes
 * text=auto
 
