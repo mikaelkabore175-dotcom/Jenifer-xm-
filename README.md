@@ -54,17 +54,16 @@ Il est conçu pour automatiser, animer, et gérer tes groupes et conversations W
 
 ## 🛠️ Installation et utilisation
 
-1. Clone ce dépôt :  
-https://github.com/your-repo/jenifer-xm.git
-https://github.com/your-repo/jenifer-xm.git
+1. Clone ce dépôt :
+   https://github.com/mikaelkabore175-dotcom/Jenifer-xm-https://github.com/mikaelkabore175-dotcom/Jenifer-xm-
 
-2. Installe les dépendances :  
-
-
-3. Lance le bot :  
+3. Installe les dépendances :  
 
 
-4. Scanne le QR code affiché dans la console avec WhatsApp  
+4. Lance le bot :  
+
+
+5. Scanne le QR code affiché dans la console avec WhatsApp  
 (dans *Paramètres > Appareils connectés > Scanner le code*).
 
 ---
