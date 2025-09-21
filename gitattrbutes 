@@ -1,0 +1,22 @@
+# Normaliser fin de ligne pour tous les fichiers textes
+* text=auto
+
+# Forcer les scripts shell à fin de ligne LF (Linux/macOS)
+*.sh text eol=lf
+
+# Forcer les scripts Windows batch à CRLF
+*.bat text eol=crlf
+
+# Les fichiers binaires ne seront pas modifiés par Git (images, vidéos)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.webp binary
+
+# Ignorer les fichiers générés (ex: node_modules)
+node_modules/** linguist-generated=true
+
+# Git LFS (si utilisé) 
+#*.mp4 filter=lfs diff=lfs merge=lfs -text
