@@ -1,87 +1,64 @@
-h1 align="center">
+```markdown
+<h1 align="center">
+  🤖 Jenifer XM WhatsApp Bot
+</h1>
 
-```ansi
-[35m      ██╗███████╗███╗   ██╗██╗███████╗██████╗     ██╗  ██╗███╗   ███╗[0m
-[35m      ██║██╔════╝████╗  ██║██║██╔════╝██╔══██╗    ██║  ██║████╗ ████║[0m
-[35m      ██║█████╗  ██╔██╗ ██║██║█████╗  ██████╔╝    ███████║██╔████╔██║[0m
-[35m ██   ██║██╔══╝  ██║╚██╗██║██║██╔══╝  ██╔══██╗    ██╔══██║██║╚██╔╝██║[0m
-[35m ╚█████╔╝███████╗██║ ╚████║██║███████╗██║  ██║    ██║  ██║██║ ╚═╝ ██║[0m
-[35m  ╚════╝ ╚══════╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝     ╚═╝[0m
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=🤖+Jenifer+xm+Bot;Le+futur+des+bots+WhatsApp;By+Mikaël+Kabore" alt="Typing SVG" />
-</h1><p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
+<p align="center">
+  <img src="https://media.giphy.com/media/f7S8zXqYnrMQ6O0SYb/giphy.gif" width="250" alt="Jenifer XM Bot Animated">
 </p>
----
 
-🚀 Jenifer xm - WhatsApp Bot
-
-✨ Jenifer xm est un bot WhatsApp moderne, puissant et simple à utiliser.
-Il permet d’automatiser des tâches, d’envoyer/répondre à des messages, et d’utiliser plein de commandes funs et utiles.
-
-⚡ Fonctionnalités principales :
-
-📩 Réponses automatiques
-
-🎵 Téléchargement médias (YouTube, TikTok, etc.)
-
-🖼️ Génération d’images et stickers
-
-🔒 Sécurité intégrée
-
-🤖 Commandes fun (mèmes, jeux, etc.)
-
-
+<p align="center">
+  <strong>Le bot WhatsApp ultime basé sur <a href="https://github.com/adiwajshing/Baileys">Baileys</a> 🤖</strong><br>
+  Jeux 🎮, Automatisations ⚙️, Fun 🎉
+</p>
 
 ---
 
-🛠️ Installation
+⚡ Présentation
 
-git clone https://github.com/mikaelkabore175-dotcom/Jenifer-xm-.git
+*Jenifer XM* est un bot WhatsApp développé en *Node.js*, utilisant la librairie *Baileys*.
+
+Il est conçu pour :
+- Automatiser les tâches dans les groupes.
+- Répondre à des commandes personnalisées.
+- Offrir des jeux, utilitaires et bien plus encore !
+
+🚀 Fonctionnalités
+
+- 📌 Commandes personnalisées
+- 🤖 Réponse automatique
+- 🎮 Mini-jeux
+- 🔒 Contrôle Admin
+- 🛠️ Modules extensibles
+- 🔄 Mise à jour facile
+
+📦 Installation
+
+```bash
+git clone https://github.com/mikaelkabore175-dotcom/Jenifer-xm-
 cd Jenifer-xm-
 npm install
-npm start
-
-
----
-
-📸 Aperçu
-
-<p align="center">
-  <img src="https://media.giphy.com/media/UYpAoiz2UksVW/giphy.gif" width="250" />
-  <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250" />
-</p>
----
-
-🤝 Contribuer
-
-1. Fork le projet
-
-
-2. Crée une branche (git checkout -b feature/nouvelle-feature)
-
-
-3. Commit (git commit -m 'Ajout de ma feature')
-
-
-4. Push (git push origin feature/nouvelle-feature)
-
-
-5. Ouvre une Pull Request 🎉
-
-
-
-
----
-
-💖 Auteur
-
-Mikaël Kabore
-🔗 GitHub
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Merci+de+supporter+Jenifer+xm+!;Donne+une+⭐+au+repo+si+tu+aimes+;Stay+connected+🚀" alt="Typing SVG" />
-</p>
+node index.js
 ```
+
+📱 Utilisation
+
+1. Scanne le QR code avec ton WhatsApp.
+2. Le bot sera connecté.
+3. Utilise les commandes comme `!help`.
+
+📎 Lien utile
+- 📥 [Télécharger](https://github.com/mikaelkabore175-dotcom/Jenifer-xm-/releases)
+- 💬 [Canal WhatsApp](https://whatsapp.com/channel/0029VbB3lzT3GJP3AsgHA71W/100)
+- 🌐 [Documentation Baileys](https://github.com/adiwajshing/Baileys)
+
+💻 Développé par
+
+*Mikaël Kabore*  
+*Contact : mikaelkabore175-dotcom*
+
 ---
+
+> 🛠️ Ce projet est open-source. Contribue si tu veux ! ⭐
+
+```
