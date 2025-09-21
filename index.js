@@ -1,3 +1,4 @@
+//index.js
 const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('@whiskeysockets/baileys');
 const path = require('path');
 const fs = require('fs');
