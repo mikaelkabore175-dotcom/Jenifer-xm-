@@ -1,0 +1,31 @@
+{
+  "name": "jenifer-xm-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Jenifer XM développé avec la bibliothèque Baileys pour automatisation et fun.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ton-utilisateur/jenifer-xm-whatsapp-bot.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "baileys",
+    "nodejs",
+    "automation"
+  ],
+  "author": "Jenifer XM",
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.0.0",
+    "axios": "^1.4.0",
+    "qrcode-terminal": "^0.12.0",
+    "chalk": "^5.2.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
